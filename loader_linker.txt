@@ -1,0 +1,6 @@
+Linker
+•	Purpose: Combines different pieces of code and data into a single executable program.
+•	Takes one or more object files (produced by the compiler) and library files.
+Loader
+•	Purpose: Loads the executable file into memory and prepares it for execution.
+•	Loads the program’s code and data into memory.
